@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<ArrayOfDummyFriend xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DummyFriend>
+    <Name>Tom Cruise</Name>
+    <ProfilePicURL>.\tcpp.jpg</ProfilePicURL>
+    <Birthday>03/07/1962</Birthday>
+    <FavoriteTeam>FCBarcelona</FavoriteTeam>
+  </DummyFriend>
+  <DummyFriend>
+    <Name>Tom Hanks</Name>
+    <ProfilePicURL>.\thpp.jpg</ProfilePicURL>
+    <Birthday>09/07/1956</Birthday>
+    <FavoriteTeam>Arsenal</FavoriteTeam>
+  </DummyFriend>
+  <DummyFriend>
+    <Name>Jennifer Lawrence</Name>
+    <ProfilePicURL>.\jlpp.jpg</ProfilePicURL>
+    <Birthday>15/08/1990</Birthday>
+    <FavoriteTeam>Arsenal</FavoriteTeam>
+  </DummyFriend>
+  <DummyFriend>
+    <Name>Jake Gyllenhall</Name>
+    <ProfilePicURL>.\jgpp.jpg</ProfilePicURL>
+    <Birthday>19/12/1980</Birthday>
+    <FavoriteTeam>ManchesterUnited</FavoriteTeam>
+  </DummyFriend>
+  <DummyFriend>
+    <Name>Cristiano Ronaldo</Name>
+    <ProfilePicURL>.\crpp.jpg</ProfilePicURL>
+    <Birthday>05/02/1985</Birthday>
+    <FavoriteTeam>RealMadrid</FavoriteTeam>
+  </DummyFriend>
+  <DummyFriend>
+    <Name>Ryan Gosling</Name>
+    <ProfilePicURL>.\rgpp.jpg</ProfilePicURL>
+    <Birthday>12/11/1980</Birthday>
+    <FavoriteTeam>RealMadrid</FavoriteTeam>
+  </DummyFriend>
+  <DummyFriend>
+    <Name>Alex Morgan</Name>
+    <ProfilePicURL>.\ampp.jpg</ProfilePicURL>
+    <Birthday>02/07/1989</Birthday>
+    <FavoriteTeam>RealMadrid</FavoriteTeam>
+  </DummyFriend>
+</ArrayOfDummyFriend>
