@@ -24,14 +24,12 @@ If the user has completed tasks such as creating new posts, browsing their album
   <img src="https://github.com/MuhammadShamrokh/FacebookDesktopApplication/assets/118557258/43701e04-78d1-4093-b577-ac9f7c60c3ea" alt="Image" width="250" height="250">
 </div>
 
-### implementation:
-To implement this application, we utilized object-oriented programming principles in C#. Furthermore, we incorporated various design patterns to significantly improve the application's maintainability and extensibility.
 
-Some of the design patterns we used:
+### Some of the design patterns we used:
 * Singleton Pattern
 * Factory Pattern
 * abstract factory Pattern
 * Observer Pattern
-* MVC Pattern
+* MVC Pattern<br>
 and more...
 
